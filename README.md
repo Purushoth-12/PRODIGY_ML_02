@@ -149,7 +149,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 ### Run the Project
 
-python main.py
+main.py
 
 ---
 
